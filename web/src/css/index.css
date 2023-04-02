@@ -1,0 +1,18 @@
+body {
+    font-family: 'Karla', sans-serif;
+    background-color: #F26D9D;
+}
+
+#root {
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.message {
+    color: #FFF;
+    font-size: 2em;
+    font-weight: 800;
+}
